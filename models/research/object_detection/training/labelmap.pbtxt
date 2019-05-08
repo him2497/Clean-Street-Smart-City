@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'leaves'
+}
+
+item {
+  id: 2
+  name: 'vegetation'
+}
+
+item {
+  id: 3
+  name: 'plastic cups'
+}
+
+item {
+  id: 4
+  name: 'plastic bags'
+}
+
+item {
+  id: 5
+  name: 'branch'
+}
+
+item {
+  id: 6
+  name: 'litter'
+}
